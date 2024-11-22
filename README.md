@@ -1,7 +1,7 @@
 # Credits:vivek9patel
 # URL : https://ubuntu-ui-portfolio-beta.vercel.app/
 
-# Web simulation of UbuntuOS
+# Web simulation of UbuntuOS -- Revamped 
 
 This is a personal portfolio website of theme Ubuntu 20.04, made using Next.js & tailwind CSS.
 If you want to edit this. Clone this project and edit the files in `/src/components`.

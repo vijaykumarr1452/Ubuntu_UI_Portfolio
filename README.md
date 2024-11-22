@@ -1,3 +1,6 @@
+# Credits:vivek9patel
+# URL : https://ubuntu-ui-portfolio-beta.vercel.app/
+
 # Web simulation of UbuntuOS
 
 This is a personal portfolio website of theme Ubuntu 20.04, made using Next.js & tailwind CSS.
@@ -7,8 +10,6 @@ To run this on localhost
 type `npm start` and when u are done coding type `npm run build` to build your app.
 
 _NOTE: if you have yarn just replace `npm start` and `npm run build` with `yarn start` and `yarn build`._
-
-<a href="https://www.buymeacoffee.com/vivek9patel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
 
 ### To make the contact form work
 
